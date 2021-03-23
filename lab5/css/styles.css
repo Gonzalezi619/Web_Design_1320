@@ -1,0 +1,74 @@
+/*Global styles */ 
+
+body{
+    background-color: red;
+}
+
+img{
+    max-width: 100%;
+
+}
+
+A {
+    color: white;
+
+}
+a :hover{
+    color: turquoise;
+    text-decoration: none;
+}
+
+/* Mobile Styles */
+
+header{
+    background-color:red;
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+
+}
+
+nav{
+    background-color: turquoise;
+    text-align: center;
+}
+
+nav ul{
+    padding: 0%;
+    list-style-type: none;
+}
+
+nav li{
+    display: block;
+
+}
+
+nav li a {
+    display: block;
+    padding: 15px 0;
+    border-top: 1px ridge red;
+    font-size: 1.5em;
+    font-weight: bolder;
+    text-decoration: none;
+    
+}
+
+Nav ul a:hover{ 
+    background-color: white;
+} 
+
+main{
+    background-color: turquoise;
+    padding: 20px;
+    margin: 10px;
+    color: red;
+
+}
+
+footer{
+    background-color: turquoise;
+    text-align: center;
+    padding: 20px 0;
+    margin: 10px;
+
+}

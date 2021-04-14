@@ -10,6 +10,7 @@
     <li><a href="lab5/index.html" target="_blank">Liverpool Fc </a></li>
     <li><a href="lab6/index.html" target="_blank">Liverpool FC update</a></li>
     <li><a href="lab7/index.html" target="_blank">Lab 7 - Audio, Video, and Table</a></li>
+    <li><a href="lab8/index.html" target="_blank">Lab 8- J Query Demo</a></li>
 
     
 
